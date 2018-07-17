@@ -4,4 +4,4 @@ This is a python console app built with selenium package .
 
 You can write a Message and the programe will sent it automaticly for multiple times to the spesfied contacts when ever you want to. 
 
-# THE APP SILL IN DEVELOPMENT
+# THE APP STILL IN DEVELOPMENT
